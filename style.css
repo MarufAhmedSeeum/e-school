@@ -1,0 +1,120 @@
+
+.container{
+
+    margin-bottom:40px;
+
+
+}
+
+
+
+
+.logo{
+
+    
+    height: 40px;
+    width: 120px;
+}
+
+.red{
+color: #FD511A;
+}
+
+.heading{
+
+    font-size: 48px;
+}
+
+.green-heading{
+    color: #21B573;
+}
+.text{
+
+    color: dimgray;
+}
+
+.button{
+
+padding: 12px 36px;
+background: #21B573;
+border-radius: 33px;
+color: floralwhite;
+border: none;
+font-size: 16px;
+
+}
+
+.button:hover{
+
+    font-size: large;
+background-color:green
+}
+
+
+.cover-photo{
+    margin-top: 75px;
+    height: 80%;
+    width: 90%;
+}
+
+
+.cover-photo img{
+
+    width: 100%;
+}
+
+.banner1{
+
+    background-color:#F0FFF0;
+}
+
+.card{
+
+    margin: 0px 10px;
+    height: 270px;
+    width: 270px;
+    border-radius: 50px;
+}
+
+
+.card img{
+
+    width:40%;    
+}
+
+.card-background{
+
+    background-color:#F8FFFB;
+}
+
+.card-background2{
+ 
+    box-shadow: 4px 5px 10px rgb(202, 202, 202);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
